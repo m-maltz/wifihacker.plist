@@ -7550,16 +7550,32 @@
 			<string>yeet</string>
 		</dict>
 		<dict>
+			<key>IfLostReturnToMessage</key>
+			<string>you just got yeeted (at least for 1 hr)</string>
+			<key>PayloadDescription</key>
+			<string>Configures ownership information for a shared device</string>
+			<key>PayloadDisplayName</key>
+			<string>Lock Screen Message</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.shareddeviceconfiguration.588C2E1B-E390-4357-8F43-7AF843FBF07D</string>
+			<key>PayloadType</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadUUID</key>
+			<string>588C2E1B-E390-4357-8F43-7AF843FBF07D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
 			<key>PayloadDescription</key>
 			<string>Configures restrictions</string>
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.ACF24EEA-F848-41DA-8515-74157B8FE6C2</string>
+			<string>com.apple.applicationaccess.AE405949-7B96-479E-9BDC-C7DBE928651D</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>ACF24EEA-F848-41DA-8515-74157B8FE6C2</string>
+			<string>AE405949-7B96-479E-9BDC-C7DBE928651D</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowAccountModification</key>
@@ -7769,23 +7785,8 @@
 			<key>whitelistedAppBundleIDs</key>
 			<array>
 				<string>com.apple.mobiletimer</string>
+				<string>com.toyopagroup.picaboo</string>
 			</array>
-		</dict>
-		<dict>
-			<key>IfLostReturnToMessage</key>
-			<string>you just got yeeted (at least for 1 hr)</string>
-			<key>PayloadDescription</key>
-			<string>Configures ownership information for a shared device</string>
-			<key>PayloadDisplayName</key>
-			<string>Lock Screen Message</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.shareddeviceconfiguration.588C2E1B-E390-4357-8F43-7AF843FBF07D</string>
-			<key>PayloadType</key>
-			<string>com.apple.shareddeviceconfiguration</string>
-			<key>PayloadUUID</key>
-			<string>588C2E1B-E390-4357-8F43-7AF843FBF07D</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -7801,7 +7802,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>0A6478C1-9B62-482F-BE83-DDBA83C4D5AE</string>
+	<string>97B5BCEC-9C28-49C4-BB55-02299AED508D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
